@@ -17,11 +17,11 @@
 
 # Reference Architectures
 
-![EDB-RA-1.png](Ton%20demo%2055ab5b3500e046d1ad2e0a96146af8a8/EDB-RA-1.png)
+![EDB-RA-1.png](images/EDB-RA-1.png)
 
-![EDB-RA-2.png](Ton%20demo%2055ab5b3500e046d1ad2e0a96146af8a8/EDB-RA-2.png)
+![EDB-RA-2.png](images/EDB-RA-2.png)
 
-![EDB-RA-3.png](Ton%20demo%2055ab5b3500e046d1ad2e0a96146af8a8/EDB-RA-3.png)
+![EDB-RA-3.png](images/EDB-RA-3.png)
 
 ---
 
